@@ -65,6 +65,6 @@ I am a C++ Software Developer with a strong focus on systems programming, multi-
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fahad23104&show_icons=true&theme=radical" alt="Fahad's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fahad23104&show_icons=true&theme=radical&count_private=true" alt="Fahad's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahad23104&theme=radical" alt="Fahad's GitHub Streak" width="48%" />
 </p>
